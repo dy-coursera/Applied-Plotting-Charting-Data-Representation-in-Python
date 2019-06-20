@@ -1,0 +1,11 @@
+**/target/
+**/__pycache__/
+**/.ipynb_checkpoints/
+**/*.iml
+**/.DS_Store
+.idea/
+*.pyc
+/build/
+/dist/
+/*.egg-info/
+/.cache/
